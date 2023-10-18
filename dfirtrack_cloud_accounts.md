@@ -1,4 +1,4 @@
-# DFIRTrack cloud accounts
+# DFIRTrack workshop - hack.lu 2023 - Cloud accounts
 
 | IP                | User          | Password                  |
 |:------------------|:--------------|:--------------------------|
