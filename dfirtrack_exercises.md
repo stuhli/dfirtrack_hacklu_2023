@@ -2,6 +2,7 @@
 
 ## Installation
 
+* clone [DFIRTrack](https://github.com/dfirtrack/dfirtrack)
 * switch to the `docker/prod` directory
 * start the container via `docker-compose`
 * add an admin user via script
